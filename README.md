@@ -98,14 +98,14 @@ ____
 
 Beispiele für ER-Diagramme: 
 
-![alt text](https://github.com/Sonnenschein01/Sonnenschein01.github.io/blob/main/erstesbsp.png "Beispiel 1")
+![BSP1](https://github.com/Sonnenschein01/Sonnenschein01.github.io/blob/main/erstesbsp.png "Beispiel 1")
 
 Beispiel 1: 
 
 Jedes Album besitzt eine AlbumNr, einen Titel und einen Preis.  
 AlbumNr ist der Primärschlüssel mit dem jedes Album eindeutig identifiziert werden kann. 
 
-!(https://github.com/Sonnenschein01/Sonnenschein01.github.io/blob/main/zweitesbsp.png)
+![BSP2](https://github.com/Sonnenschein01/Sonnenschein01.github.io/blob/main/zweitesbsp.png)
 
 Beispiel 2: 
 
