@@ -129,3 +129,12 @@ Eine relationale Datenbank kann man sich als eine Sammlung von Tabellen *(de
 
 ![BSP3](https://github.com/Sonnenschein01/Sonnenschein01.github.io/blob/main/drittesbsp.png "Beispiel 3")
 
+*Beispiel:*
+
+**Schüler**
+
+Schüler-ID | Name           | Klasse
+ ---       | ---            | ---
+ 69        | Maxi Malost    | 10
+ 420       | Mario Ahner    | 11
+ 42        | Max Mustermann | 12
