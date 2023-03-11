@@ -211,13 +211,13 @@ Entity heißt **Entität** und bedeutet so viel wie „Ein existierendes Ding“
 
 Beispiel: Maren und Dennis sind Schüler, die unterschiedliche Namen und somit unterschiedliche Eigenschaften besitzen. Sie können also nicht dieselbe Entität sein und können somit identifiziert/unterschieden werden. 
 
- 
+
+
 
 Die Eigenschaften der Entitäten nennt man in diesem Fall **Attribute** und sie werden durch Werte angegeben. Sie können eine Entität oder auch eine Relation beschreiben. 
 
 Beispiel: Anzahl, Name, Klasse, Alter 
 
- 
 
 Die **Werte** sind primitive Datenelemente, die direkt darstellbar sind. Alle Attribute der Entitäten werden mit Werten angegeben. 
 
