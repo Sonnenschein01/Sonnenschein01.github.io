@@ -182,12 +182,12 @@ Eine Datenbank ist ein System zur elektronischen Datenverwaltung. Die wesent
 Das heißt, es geht grob gesagt nicht nur um das Speichern von Datensätzen in Datenbanken an sich, sondern auch um andere Kriterien, wie zum Beispiel Konsistenz und Darstellung. 
 
 ##### Datensatz? Datenbank? Was sind die Unterschiede? 
-| Name           | Beschreibung
-| -------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| Bit            | Kleinste im Computer verarbeitbare Dateneinheit                                                                                    |
-| Byte           | Bildung festgelegter Bitfolgen                                                                                                     | 
-| Datenelement   | Gruppierung von einem oder mehreren Zeichen in einem Wort, einer Gruppe von Wörtern oder einer Zahl, z.B. Artikelname oder -nummer.| 
-| Datensatz      | Gruppe von inhaltlich zusammenhängenden Datenelementen, die verschiedene Eigenschaften desselben Phänomens beschreiben             | 
-| Datei          | Zusammenfassung logisch zusammengehörender, gleichartiger Datensätze                                                               | 
-| Datenbank      | Gruppen von Dateien, zwischen denen logische Abhängigkeiten bestehen                                                               |
+|                |     
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------- 
+| Bit            | Kleinste im Computer verarbeitbare Dateneinheit                                                                                    
+| Byte           | Bildung festgelegter Bitfolgen                                                                                                     
+| Datenelement   | Gruppierung von einem oder mehreren Zeichen in einem Wort, einer Gruppe von Wörtern oder einer Zahl, z.B. Artikelname oder -nummer.
+| Datensatz      | Gruppe von inhaltlich zusammenhängenden Datenelementen, die verschiedene Eigenschaften desselben Phänomens beschreiben             
+| Datei          | Zusammenfassung logisch zusammengehörender, gleichartiger Datensätze                                                               
+| Datenbank      | Gruppen von Dateien, zwischen denen logische Abhängigkeiten bestehen                                                               
 
