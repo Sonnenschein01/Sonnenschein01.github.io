@@ -182,7 +182,7 @@ Eine Datenbank ist ein System zur elektronischen Datenverwaltung. Die wesent
 Das heißt, es geht grob gesagt nicht nur um das Speichern von Datensätzen in Datenbanken an sich, sondern auch um andere Kriterien, wie zum Beispiel Konsistenz und Darstellung. 
 
 ##### Datensatz? Datenbank? Was sind die Unterschiede? 
-|                |     
+| Name           |     Beschreibung
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------- 
 | Bit            | Kleinste im Computer verarbeitbare Dateneinheit                                                                                    
 | Byte           | Bildung festgelegter Bitfolgen                                                                                                     
