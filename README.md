@@ -133,8 +133,19 @@ Eine relationale Datenbank kann man sich als eine Sammlung von Tabellen *(de
 
 **Schüler**
 
-Schüler-ID | Name           | Klasse
- ---       | ---            | ---
- 69        | Maxi Malost    | 10
- 420       | Mario Ahner    | 11
- 42        | Max Mustermann | 12
+**Schüler-ID** | Name           | Klasse
+ ---           | ---            | ---
+ 69            | Maxi Malost    | 10
+ 420           | Mario Ahner    | 11
+ 42            | Max Mustermann | 12
+
+In diesem Beispiel heißt die Relation Schüler und stellt somit den Entitätstypen dar.                                                
+Das Relationenschema besteht aus drei Attributen, die verschiedene Werttypen haben.                                                    
+Schüler-ID ist der Primärschlüssel und daher als Attribut hier dick geschrieben. In der korrekten Syntax wird es aber unterstrichen.     
+Jede Zeile stellt somit einen Schüler mit seinen Eigenschaften dar. Alle sind in der Relation ‘Schüler’.                              
+
+Jetzt wissen wir in welcher Form eine relationale Datenbank die Relationen abspeichert. Diesen tabellarischen Zustand wollen wir nun erreichen. Das erstellte ER-Diagramm kann man nun in diese Tabellen umwandeln. 
+
+---
+
+
