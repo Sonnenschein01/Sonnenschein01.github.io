@@ -92,14 +92,14 @@ ____
 
 ![BSP1](https://github.com/Sonnenschein01/Sonnenschein01.github.io/blob/main/erstesbsp.png "Beispiel 1")
 
-Beispiel 1: 
+* Beispiel 1: 
 
 Jedes Album besitzt eine AlbumNr, einen Titel und einen Preis.  
 AlbumNr ist der Primärschlüssel mit dem jedes Album eindeutig identifiziert werden kann. 
 
 ![BSP2](https://github.com/Sonnenschein01/Sonnenschein01.github.io/blob/main/zweitesbsp.png "Beispiel 2")
 
-Beispiel 2: 
+* Beispiel 2: 
 
 Jeder Mensch hat eine eindeutige Steuernummer (Primärschlüssel), einen Vornamen, einen Nachnamen und ein Geburtsdatum.  
 
