@@ -202,8 +202,8 @@ ____
 
 ##### Wie kann man die erwähnten Entitäten und Relationen, die in der realen Welt vorhanden sind verständlich veranschaulichen?  
 
-* ER-Modellierung wurde dafür geschaffen. ER heißt Entity Relationship.
-* Damit erstellen wir ER-Diagramme. 
+* ER-Modellierung (ERM) wurde dafür geschaffen. ER heißt Entity Relationship.
+* Damit erstellen wir ER-Diagramme (ERD). 
 
 ## ER-Modellierung (ERM) Begriffe 
 
@@ -262,3 +262,13 @@ Beispiel: In einer Klasse sind 20 Schüler, sodass eine Relation von Klasse zu S
 5. An den Verbindungslinien von Relationen werden die Kardinalitäten notiert.  
 
 6. Entitäten werden nicht dargestellt. 
+
+____
+
+Beispiele für ER-Diagramme: 
+
+
+
+
+
+
