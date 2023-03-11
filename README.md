@@ -148,4 +148,23 @@ Jetzt wissen wir in welcher Form eine relationale Datenbank die Relationen abspe
 
 ---
 
+# Transformation 
+
+Für das Umwandeln von ER-Diagrammen in eine Relation in Form einer Tabelle gibt es bestimmte Regeln:  
+
+1. Jeder Entitätstyp wird als Tabelle dargestellt. Jede Tabelle benötigt einen Primärschlüssel.  
+
+2. Jede n:m-Beziehung wird durch eine eigene Tabelle dargestellt.  
+
+3. Jede 1:n- und 1:1-Beziehung mit eigenen Attributen wird wie bei Regel 2 durch eine eigene Tabelle dargestellt.  
+
+4. Jede 1:n-Beziehung ohne eigene Attribute wird so dargestellt, dass der Primärschlüssel des 1-Entitätstyps Fremdschlüssel des n-Entitätstyps wird.  
+
+5. Jede 1:1-Beziehung ohne eigene Attribute wird so dargestellt, dass der Primärschlüssel des ersten Entitätstyps beim zweiten Entitätstyp Primär- und Fremdschlüssel zugleich wird.  
+
+6. Sind Regel 4 oder 5 nicht anwendbar, dann wird für die Beziehung eine gesonderte Tabelle angelegt. 
+
+* Auf den ersten Blick ist das viel, aber nun gehen wir anhand dieses Beispiels zusammen durch:
+
+
 
