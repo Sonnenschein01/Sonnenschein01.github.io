@@ -1,10 +1,9 @@
 
 # Datenbanken: 
 
-### Was ist das überhaupt? 
-#### Ein Leihe würde sagen: Etwas worin Daten gespeichert werden. 
+## Was ist das überhaupt? 
+### Ein Leihe würde sagen: Etwas worin Daten gespeichert werden. 
 
---- 
 
 #### Die Definition zeigt, dass es etwas genauer ist: 
 
@@ -22,7 +21,7 @@ Das heißt, es geht grob gesagt nicht nur um das Speichern von Datensätzen in D
 | Datei          | Zusammenfassung logisch zusammengehörender, gleichartiger Datensätze                                                               
 | Datenbank      | Gruppen von Dateien, zwischen denen logische Abhängigkeiten bestehen                                                               
 
-##### Wozu braucht man diese Datenhierarchie denn?
+#### Wozu braucht man diese Datenhierarchie denn?
 
 * Wir versuchen Informationen, Beziehungen und Personen aus der echten Welt in Form von Daten festzuhalten und dadurch eine Struktur zu erstellen und die Beziehungen zueinander darzustellen.
 
@@ -30,7 +29,7 @@ Das heißt, es geht grob gesagt nicht nur um das Speichern von Datensätzen in D
 
 # ER-Modell 
 
-##### Wie kann man die erwähnten Entitäten und Relationen, die in der realen Welt vorhanden sind verständlich veranschaulichen?  
+#### Wie kann man die erwähnten Entitäten und Relationen, die in der realen Welt vorhanden sind verständlich veranschaulichen?  
 
 * ER-Modellierung (ERM) wurde dafür geschaffen. ER heißt Entity Relationship.
 * Damit erstellen wir ER-Diagramme (ERD). 
@@ -38,7 +37,7 @@ Das heißt, es geht grob gesagt nicht nur um das Speichern von Datensätzen in D
 ## ER-Modellierung (ERM) Begriffe 
 
 * Entity heißt **Entität** und bedeutet so viel wie „Ein existierendes Ding“. Eine Entität definiert sich und unterscheidet sich von anderen Entitäten durch die Eigenschaften, die sie besitzt.                                                     
-*Beispiel: Maren und Dennis sind Schüler, die unterschiedliche Namen und somit unterschiedliche Eigenschaften besitzen. Sie können also nicht dieselbe Entität sein und können somit identifiziert/unterschieden werden.*
+***Beispiel:** Maren und Dennis sind Schüler, die unterschiedliche Namen und somit unterschiedliche Eigenschaften besitzen. Sie können also nicht dieselbe Entität sein und können somit identifiziert/unterschieden werden.*
 
 
 
@@ -124,3 +123,10 @@ Das Stichwort Relational findet sich auch hier wieder. Nicht nur in der realen W
 Laut Definition ist eine **relationale Datenbank** eine digitale Datenbank, die zur elektronischen Datenverwaltung dient und auf einem tabellenbasierten relationalen Datenbankmodell beruht. Grundlage des Konzeptes relationaler Datenbanken ist die Relation. Sie stellt eine mathematische Beschreibung einer Tabelle dar.
 
 Operationen auf diesen Relationen werden durch die relationale Algebra bestimmt. 
+
+## Grundlegendes Konzept: 
+
+Eine relationale Datenbank kann man sich als eine Sammlung von Tabellen *(den Relationen)* vorstellen, in welchen Datensätze abgespeichert sind. Jede Zeile in einer Tabelle ist ein Datensatz und stellt in unserem Fall eine Entität dar. Jede Zeile besteht aus einer Reihe von Attributwerten *(Attribute = Eigenschaften)*, den Spalten der Tabelle. Die Anzahl und der Typ der Attribute für eine Relation nennt man Relationenschema. Das Bild illustriert die Relation **R** mit Attributen **A**1 bis **A**n in den Spalten. 
+
+![BSP3](https://github.com/Sonnenschein01/Sonnenschein01.github.io/blob/main/drittesbsp.png "Beispiel 3")
+
