@@ -25,7 +25,7 @@ Das heißt, es geht grob gesagt nicht nur um das Speichern von Datensätzen in D
 
 * Wir versuchen Informationen, Beziehungen und Personen aus der echten Welt in Form von Daten festzuhalten und dadurch eine Struktur zu erstellen und die Beziehungen zueinander darzustellen.
 
----
+
 
 # ER-Modell 
 
