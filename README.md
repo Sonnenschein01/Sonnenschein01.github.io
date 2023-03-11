@@ -182,6 +182,7 @@ Eine Datenbank ist ein System zur elektronischen Datenverwaltung. Die wesent
 Das heißt, es geht grob gesagt nicht nur um das Speichern von Datensätzen in Datenbanken an sich, sondern auch um andere Kriterien, wie zum Beispiel Konsistenz und Darstellung. 
 
 ##### Datensatz? Datenbank? Was sind die Unterschiede? 
+
 | Name           |     Beschreibung
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------- 
 | Bit            | Kleinste im Computer verarbeitbare Dateneinheit                                                                                    
@@ -201,8 +202,8 @@ ____
 
 Wie kann man die erwähnten Entitäten und Relationen, die in der realen Welt vorhanden sind verständlich veranschaulichen?  
 
-#####* ER-Modellierung wurde dafür geschaffen. ER heißt Entity Relationship.
-#####* Damit erstellen wir ER-Diagramme. 
+##### ER-Modellierung wurde dafür geschaffen. ER heißt Entity Relationship.
+##### Damit erstellen wir ER-Diagramme. 
 
 ### ER-Modellierung (ERM) Begriffe 
 
