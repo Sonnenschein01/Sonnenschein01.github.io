@@ -267,7 +267,7 @@ ____
 
 Beispiele für ER-Diagramme: 
 
-![alt text](https://github.com/Sonnenschein01/Sonnenschein01.github.io/erstes bsp.png "Logo Title Text 1")
+![alt text](https://github.com/Sonnenschein01/Sonnenschein01.github.io/erstesbsp.png "Logo Title Text 1")
 
 
 
