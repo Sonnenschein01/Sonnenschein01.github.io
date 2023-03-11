@@ -164,6 +164,8 @@ Für das Umwandeln von ER-Diagrammen in eine Relation in Form einer Tabelle gibt
 
 6. Sind Regel 4 oder 5 nicht anwendbar, dann wird für die Beziehung eine gesonderte Tabelle angelegt. 
 
+---
+
 * Auf den ersten Blick ist das viel, aber nun gehen wir anhand dieses Beispiels zusammen durch:
 
 1. Jeder Entitätstyp ist eine eigene Tabelle mit einem Primärschlüssel. Optimalerweise ist der Primärschlüssel ein einzelnes Attribut. Im Zweifel wird ein künstlicher Primärschlüssel zugewiesen, wie z.B eine ID. Jede Zeile einer Tabelle ist eine Entität des Entitätstyps.
