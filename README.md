@@ -246,3 +246,19 @@ Beispiel: Zwei Schüler heißen Alex, aber einer hat die ID 69 und der andere 42
 Die **Kardinalität** ist die Anzahl an Entitäten die an einer Relation Teilnehmen, da sich diese Zahl je nach Relation unterscheiden kann. Es gibt 1:1, 1:n, m:n Beziehungen. Bei 0…n muss eine Entität nicht zu einer Relation gehören. Das nennt sich auch Optionalität. 
 
 Beispiel: In einer Klasse sind 20 Schüler, sodass eine Relation von Klasse zu Schülern mit der Kardinalität von 1:20 besteht. Jeder Schüler ist einer Klasse zugeordnet aber mehrere Klassen sind nicht einem Schüler zugeordnet. 
+
+* Jetzt da diese Begriffe der ER-Modellierung bekannt sind können wir mit diesen ER-Diagramme erstellen
+
+* ER-Diagramme (ERD)  
+
+1. Entitätstypen werden als Rechtecke dargestellt. Im Rechteck steht der Name des Entitätstyps.  
+
+2. Attribute werden als Ovale dargestellt, die mit einer Linie mit dem Entitätstyp verbunden sind, zu dem sie gehören. Im Oval steht der Name des Attributs.  
+
+3. Die Namen von Primärschlüsseln werden unterstrichen.  
+
+4. Relationen werden als Rauten dargestellt, die jeweils mit einer Linie mit den beteiligten Entitätstypen verbunden sind. In der Raute steht der Name der Relation.  
+
+5. An den Verbindungslinien von Relationen werden die Kardinalitäten notiert.  
+
+6. Entitäten werden nicht dargestellt. 
