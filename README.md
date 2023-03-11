@@ -125,7 +125,7 @@ Operationen auf diesen Relationen werden durch die relationale Algebra besti
 
 ## Grundlegendes Konzept: 
 
-Eine relationale Datenbank kann man sich als eine Sammlung von Tabellen *(den Relationen)* vorstellen, in welchen Datensätze abgespeichert sind. Jede Zeile in einer Tabelle ist ein Datensatz und stellt in unserem Fall eine Entität dar. Jede Zeile besteht aus einer Reihe von Attributwerten *(Attribute = Eigenschaften)*, den Spalten der Tabelle. Die Anzahl und der Typ der Attribute für eine Relation nennt man Relationenschema. Das Bild illustriert die Relation **R** mit Attributen **A**1 bis **A**n in den Spalten. 
+Eine relationale Datenbank kann man sich als eine Sammlung von Tabellen *(den Relationen)* vorstellen, in welchen Datensätze abgespeichert sind. Jede Zeile in einer Tabelle ist ein Datensatz und stellt in unserem Fall eine Entität dar. Jede Zeile besteht aus einer Reihe von Attributwerten *(Attribute = Eigenschaften)*, den Spalten der Tabelle. Die Anzahl und der Typ der Attribute für eine Relation nennt man Relationenschema. Das Bild illustriert die Relation **R** mit Attributen ***A**1* bis ***A**n* in den Spalten. 
 
 ![BSP3](https://github.com/Sonnenschein01/Sonnenschein01.github.io/blob/main/drittesbsp.png "Beispiel 3")
 
