@@ -166,7 +166,8 @@ Für das Umwandeln von ER-Diagrammen in eine Relation in Form einer Tabelle gibt
 
 * Auf den ersten Blick ist das viel, aber nun gehen wir anhand dieses Beispiels zusammen durch:
 
-#### 1. Jeder Entitätstyp ist eine eigene Tabelle mit einem Primärschlüssel. Optimalerweise ist der Primärschlüssel ein einzelnes Attribut. Im Zweifel wird ein künstlicher Primärschlüssel zugewiesen, wie z.B eine ID. Jede Zeile einer Tabelle ist eine Entität des Entitätstyps.
+1. Jeder Entitätstyp ist eine eigene Tabelle mit einem Primärschlüssel. Optimalerweise ist der Primärschlüssel ein einzelnes Attribut. Im Zweifel wird ein künstlicher Primärschlüssel zugewiesen, wie z.B eine ID. Jede Zeile einer Tabelle ist eine Entität des Entitätstyps.
 
 ![BSP4](https://github.com/Sonnenschein01/Sonnenschein01.github.io/blob/main/viertesbsp.png "Beispiel 4")
+
 
