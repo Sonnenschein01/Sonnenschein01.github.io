@@ -46,10 +46,9 @@ Das heißt, es geht grob gesagt nicht nur um das Speichern von Datensätzen in D
 ***Beispiel:** Anzahl, Name, Klasse, Alter.*                                                                                                     
 
 
-* Die **Werte** sind primitive Datenelemente, die direkt darstellbar sind. Alle Attribute der Entitäten werden mit Werten angegeben. 
-***Beispiel:** int (Zahl) für das Alter, String (Zeichenkette) für den Namen*                                                             
+* Die **Werte** sind primitive Datenelemente, die direkt darstellbar sind. Alle Attribute der Entitäten werden mit Werten angegeben.       
+***Beispiel:** int (Zahl) für das Alter, String (Zeichenkette) für den Namen*                                                                            
 
- 
 
 * **Entitätstypen** fassen alle gleichartigen Entitäten zusammen. Sie funktionieren als Blaupause oder Schablone um alle Entitäten einer Art zusammen abzuspeichern und zu strukturieren.                                                          
 ***Beispiel:** Schüler und Lehrer sind zwei Entitätstypen, mit denen wir jetzt jede Entität aus einer Schulklasse einem Entitätstypen zuordnen können. 1 = Schüler 2 = Lehrer*                                                                        
