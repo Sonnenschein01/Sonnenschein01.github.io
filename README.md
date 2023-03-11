@@ -201,8 +201,8 @@ ____
 
 Wie kann man die erwähnten Entitäten und Relationen, die in der realen Welt vorhanden sind verständlich veranschaulichen?  
 
-##### * ER-Modellierung wurde dafür geschaffen. ER heißt Entity Relationship.
-##### * Damit erstellen wir ER-Diagramme. 
+#####* ER-Modellierung wurde dafür geschaffen. ER heißt Entity Relationship.
+#####* Damit erstellen wir ER-Diagramme. 
 
 ### ER-Modellierung (ERM) Begriffe 
 
