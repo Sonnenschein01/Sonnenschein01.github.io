@@ -249,7 +249,7 @@ Beispiel: In einer Klasse sind 20 Schüler, sodass eine Relation von Klasse zu S
 
 * Jetzt da diese Begriffe der ER-Modellierung bekannt sind können wir mit diesen ER-Diagramme erstellen
 
-* ER-Diagramme (ERD)  
+# ER-Diagramme (ERD)  
 
 1. Entitätstypen werden als Rechtecke dargestellt. Im Rechteck steht der Name des Entitätstyps.  
 
