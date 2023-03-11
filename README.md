@@ -194,3 +194,16 @@ Das heißt, es geht grob gesagt nicht nur um das Speichern von Datensätzen in D
 ##### Wozu braucht man diese Datenhierarchie denn?
 
 * Wir versuchen Informationen, Beziehungen und Personen aus der echten Welt in Form von Daten festzuhalten und dadurch eine Struktur zu erstellen und die Beziehungen zueinander darzustellen.
+
+____
+
+# ER-Modell 
+
+Wie kann man die erwähnten Entitäten und Relationen, die in der realen Welt vorhanden sind verständlich veranschaulichen?  
+
+##### * ER-Modellierung wurde dafür geschaffen. ER heißt Entity Relationship.
+##### * Damit erstellen wir ER-Diagramme. 
+
+### ER-Modellierung (ERM) Begriffe 
+
+
