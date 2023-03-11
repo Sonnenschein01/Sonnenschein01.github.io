@@ -82,7 +82,7 @@ Beispiel: In einer Klasse sind 20 Schüler, sodass eine Relation von Klasse zu S
 
 ---
 
-# ER-Diagramme (ERD)  
+## ER-Diagramme (ERD)  
 
 1. Entitätstypen werden als Rechtecke dargestellt. Im Rechteck steht der Name des Entitätstyps.  
 
@@ -120,3 +120,13 @@ Zudem hat jeder einzelne Mensch zwischen 0 und n Finger (Kardinalität 0..n).
 Jeder einzelne Finger hat aber nur genau einen Menschen (Kardinalität 1) 
 
 Hat ist die Beziehung, die die Entitäten zueinander haben. In diesem Fall hat sie keine Attribute.
+
+
+---
+
+
+# Relationenmodell
+
+Das Stichwort Relational findet sich auch hier wieder. Nicht nur in der realen Welt und in der abstrahierten Abbildung der ER-Diagramme, sondern auch in Form von Tabellen ist es relevant. In dieser Tabellenform werden nämlich die Relationen abgespeichert, die wir mithilfe eines ER-Diagramms darstellen. 
+Laut Definition ist eine **relationale Datenbank** eine digitale Datenbank, die zur elektronischen Datenverwaltung dient und auf einem tabellenbasierten relationalen Datenbankmodell beruht. Grundlage des Konzeptes relationaler Datenbanken ist die Relation. Sie stellt eine mathematische Beschreibung einer Tabelle dar. 
+Operationen auf diesen Relationen werden durch die relationale Algebra bestimmt. 
