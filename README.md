@@ -171,17 +171,17 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ### Was ist das überhaupt? 
 
-##### Ein Leihe würde sagen: Etwas worin Daten gespeichert werden. 
+#### Ein Leihe würde sagen: Etwas worin Daten gespeichert werden. 
 
  
 
-##### Die Definition zeigt, dass es etwas genauer ist: 
+#### Die Definition zeigt, dass es etwas genauer ist: 
 
 Eine Datenbank ist ein System zur elektronischen Datenverwaltung. Die wesentliche Aufgabe einer Datenbank ist es, große Datenmengen effizient, widerspruchsfrei und dauerhaft zu speichern und benötigte Teilmengen in unterschiedlichen, bedarfsgerechten Darstellungsformen für Benutzer und Anwendungsprogramme bereitzustellen. 
 
 Das heißt, es geht grob gesagt nicht nur um das Speichern von Datensätzen in Datenbanken an sich, sondern auch um andere Kriterien, wie zum Beispiel Konsistenz und Darstellung. 
 
-##### Datensatz? Datenbank? Was sind die Unterschiede? 
+#### Datensatz? Datenbank? Was sind die Unterschiede? 
 
 | Name           |     Beschreibung
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------- 
@@ -202,9 +202,9 @@ ____
 
 Wie kann man die erwähnten Entitäten und Relationen, die in der realen Welt vorhanden sind verständlich veranschaulichen?  
 
-##### ER-Modellierung wurde dafür geschaffen. ER heißt Entity Relationship.
-##### Damit erstellen wir ER-Diagramme. 
+#### > ER-Modellierung wurde dafür geschaffen. ER heißt Entity Relationship.
+#### > Damit erstellen wir ER-Diagramme. 
 
-### ER-Modellierung (ERM) Begriffe 
+## ER-Modellierung (ERM) Begriffe 
 
 
