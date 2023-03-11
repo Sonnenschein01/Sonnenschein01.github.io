@@ -200,11 +200,49 @@ ____
 
 # ER-Modell 
 
-Wie kann man die erwähnten Entitäten und Relationen, die in der realen Welt vorhanden sind verständlich veranschaulichen?  
+##### Wie kann man die erwähnten Entitäten und Relationen, die in der realen Welt vorhanden sind verständlich veranschaulichen?  
 
-#### > ER-Modellierung wurde dafür geschaffen. ER heißt Entity Relationship.
-#### > Damit erstellen wir ER-Diagramme. 
+* ER-Modellierung wurde dafür geschaffen. ER heißt Entity Relationship.
+* Damit erstellen wir ER-Diagramme. 
 
 ## ER-Modellierung (ERM) Begriffe 
 
+Entity heißt **Entität** und bedeutet so viel wie „Ein existierendes Ding“. Eine Entität definiert sich und unterscheidet sich von anderen Entitäten durch die Eigenschaften, die sie besitzt.  
 
+Beispiel: Maren und Dennis sind Schüler, die unterschiedliche Namen und somit unterschiedliche Eigenschaften besitzen. Sie können also nicht dieselbe Entität sein und können somit identifiziert/unterschieden werden. 
+
+ 
+
+Die Eigenschaften der Entitäten nennt man in diesem Fall **Attribute** und sie werden durch Werte angegeben. Sie können eine Entität oder auch eine Relation beschreiben. 
+
+Beispiel: Anzahl, Name, Klasse, Alter 
+
+ 
+
+Die **Werte** sind primitive Datenelemente, die direkt darstellbar sind. Alle Attribute der Entitäten werden mit Werten angegeben. 
+
+Beispiel: int (Zahl) für das Alter, String (Zeichenkette) für den Namen 
+
+ 
+
+**Entitätstypen** fassen alle gleichartigen Entitäten zusammen. Sie funktionieren als Blaupause oder Schablone um alle Entitäten einer Art zusammen abzuspeichern und zu strukturieren. 
+
+Beispiel: Schüler und Lehrer sind zwei Entitätstypen, mit denen wir jetzt jede Entität aus einer Schulklasse einem Entitätstypen zuordnen können. 1 = Schüler 2 = Lehrer 
+
+ 
+
+Relationship aus dem Begriff Entity-Relationship steht für die **Relation**, also Beziehung. Die Entitäten können also einen Bezug zueinander haben und hängen somit zusammen. 
+
+Beispiel: Es gibt den Lehrer Herr Volk und dieser unterrichtet die Schüler Paul und Jan, was auch ihre Beziehung zu ihm beschreibt.  
+
+ 
+
+**Primärschlüssel** sind Attribute, die es kein zweites Mal geben darf und somit eindeutig eine Entität Identifizieren. Oft kommen IDs mit dieser Rolle zum Einsatz, welche selbst erstellte Primärschlüssel sind. (Auch mehrere Attribute zusammen können einen Primärschlüssel bilden, sofern sie die Bedingung erfüllen, dass es sie in dieser Kombination nur einmal gibt.) 
+
+Beispiel: Zwei Schüler heißen Alex, aber einer hat die ID 69 und der andere 420. 
+
+ 
+
+Die **Kardinalität** ist die Anzahl an Entitäten die an einer Relation Teilnehmen, da sich diese Zahl je nach Relation unterscheiden kann. Es gibt 1:1, 1:n, m:n Beziehungen. Bei 0…n muss eine Entität nicht zu einer Relation gehören. Das nennt sich auch Optionalität. 
+
+Beispiel: In einer Klasse sind 20 Schüler, sodass eine Relation von Klasse zu Schülern mit der Kardinalität von 1:20 besteht. Jeder Schüler ist einer Klasse zugeordnet aber mehrere Klassen sind nicht einem Schüler zugeordnet. 
