@@ -175,7 +175,7 @@ Für das Umwandeln von ER-Diagrammen in eine Relation in Form einer Tabelle gibt
 
 <img width="459" alt="viertesbsp" src="https://user-images.githubusercontent.com/109920734/224554874-48930954-dda7-4401-967e-632e7c5c195b.png">
 
-
+* Aufteilen wie in 1. beschrieben:
 
 ![Image](https://github.com/Sonnenschein01/Sonnenschein01.github.io/blob/263e980bf0916ffbf8bc83c79f18d1f1b2fc296b/viertesbsp2.png)
 
@@ -187,6 +187,8 @@ Steuernummer | Vorname | Nachname | Geburtsdatum
 ----         | ---     | ---      | ----
 17           | Petra   | Silie    | 28.2.2005
 42           | Angela  | Merkel   | 17.7.1954
+
+### &
 
 ![Image](https://github.com/Sonnenschein01/Sonnenschein01.github.io/blob/e8a18976fd891d3ac26116d7c6bf3ed3d250f1ad/viertesbsp3.png)
 
