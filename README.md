@@ -90,7 +90,7 @@ ____
 
 ### Beispiele für ER-Diagramme: 
 
-!['Image'](https://github.com/Sonnenschein01/Sonnenschein01.github.io/blob/main/erstesbsp.png)
+!['Image'](https://raw.githubusercontent.com/Sonnenschein01/Sonnenschein01.github.io/main/erstesbsp.png)
 !['Image'](https://github.com/Sonnenschein01/Sonnenschein01.github.io/blob/348af071fe3387f6bdacfc7cf7eb1416d2675b93/erstesbsp.png)
 
 * *Beispiel 1:* 
