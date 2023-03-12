@@ -174,3 +174,14 @@ Für das Umwandeln von ER-Diagrammen in eine Relation in Form einer Tabelle gibt
 ![BSP4](https://github.com/Sonnenschein01/Sonnenschein01.github.io/blob/main/viertesbsp.png "Beispiel 4")
 
 
+<img width="459" alt="viertesbsp" src="https://user-images.githubusercontent.com/109920734/224554874-48930954-dda7-4401-967e-632e7c5c195b.png">
+
+
+
+      
+    
+
+      
+    
+
+
