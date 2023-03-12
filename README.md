@@ -203,7 +203,7 @@ Nummer | Fach
 
 * Relationen werden aufgelöst. Dazu geht man je nach Kardinalität unterschiedlich vor
 
-
+![TestImage](https://einfachtierisch.de/media/cache/article_teaser/cms/2014/10/rote-katze-miaut-shutterstock-Sue-McDonald.jpg?68674)
       
     
 
