@@ -177,9 +177,9 @@ Für das Umwandeln von ER-Diagrammen in eine Relation in Form einer Tabelle gibt
 
 * Aufteilen wie in 1. beschrieben:
 
-![Image](https://github.com/Sonnenschein01/Sonnenschein01.github.io/blob/263e980bf0916ffbf8bc83c79f18d1f1b2fc296b/viertesbsp2.png)
+![BSP4.2](https://github.com/Sonnenschein01/Sonnenschein01.github.io/blob/263e980bf0916ffbf8bc83c79f18d1f1b2fc296b/viertesbsp2.png)
 
-![Image](https://github.com/Sonnenschein01/Sonnenschein01.github.io/blob/263e980bf0916ffbf8bc83c79f18d1f1b2fc296b/pfeil.png)
+![Pfeil](https://github.com/Sonnenschein01/Sonnenschein01.github.io/blob/263e980bf0916ffbf8bc83c79f18d1f1b2fc296b/pfeil.png)
 
 **Mensch**
 
@@ -190,9 +190,9 @@ Steuernummer | Vorname | Nachname | Geburtsdatum
 
 ### &
 
-![Image](https://github.com/Sonnenschein01/Sonnenschein01.github.io/blob/e8a18976fd891d3ac26116d7c6bf3ed3d250f1ad/viertesbsp3.png)
+![BSP4.3](https://github.com/Sonnenschein01/Sonnenschein01.github.io/blob/e8a18976fd891d3ac26116d7c6bf3ed3d250f1ad/viertesbsp3.png)
 
-![Image](https://github.com/Sonnenschein01/Sonnenschein01.github.io/blob/263e980bf0916ffbf8bc83c79f18d1f1b2fc296b/pfeil.png)
+![Pfeil](https://github.com/Sonnenschein01/Sonnenschein01.github.io/blob/263e980bf0916ffbf8bc83c79f18d1f1b2fc296b/pfeil.png)
 
 **Kurs**
 
@@ -203,8 +203,6 @@ Nummer | Fach
 
 * Relationen werden aufgelöst. Dazu geht man je nach Kardinalität unterschiedlich vor
 
-![TestImage](https://einfachtierisch.de/media/cache/article_teaser/cms/2014/10/rote-katze-miaut-shutterstock-Sue-McDonald.jpg?68674)
-      
-    
+2. m:n-Kardinalitäten erfordern eine zusätzliche Tabelle für die Relation. (Das erstellen der Tabelle für die Entitätstypen (Hier: Schüler und Kurs) wurden schon in Regel 1 erklärt.) In der zusätzlichen Tabelle gibt es eine Spalte für jeden Primärschlüssel der beteiligten Entitätstypen. Primärschlüssel, die in einer „fremden“ Tabelle auftauchen, nennt man dort Fremdschlüssel. 
 
 
