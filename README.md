@@ -90,15 +90,14 @@ ____
 
 ### Beispiele für ER-Diagramme: 
 
-!['Image'](https://raw.githubusercontent.com/Sonnenschein01/Sonnenschein01.github.io/main/erstesbsp.png)
-!['Image'](https://github.com/Sonnenschein01/Sonnenschein01.github.io/blob/348af071fe3387f6bdacfc7cf7eb1416d2675b93/erstesbsp.png)
+!['Image1'](https://raw.githubusercontent.com/Sonnenschein01/Sonnenschein01.github.io/main/erstesbsp.png "Beispiel 1")
 
 * *Beispiel 1:* 
 
 Jedes Album besitzt eine AlbumNr, einen Titel und einen Preis.  
 AlbumNr ist der Primärschlüssel mit dem jedes Album eindeutig identifiziert werden kann. 
 
-![BSP2](https://github.com/Sonnenschein01/Sonnenschein01.github.io/blob/main/zweitesbsp.png "Beispiel 2")
+!['Image2'](https://raw.githubusercontent.com/Sonnenschein01/Sonnenschein01.github.io/main/zweitesbsp.png "Beispiel 2")
 
 * *Beispiel 2:* 
 
@@ -128,7 +127,7 @@ Operationen auf diesen Relationen werden durch die relationale Algebra besti
 
 Eine relationale Datenbank kann man sich als eine Sammlung von Tabellen *(den Relationen)* vorstellen, in welchen Datensätze abgespeichert sind. Jede Zeile in einer Tabelle ist ein Datensatz und stellt in unserem Fall eine Entität dar. Jede Zeile besteht aus einer Reihe von Attributwerten *(Attribute = Eigenschaften)*, den Spalten der Tabelle. Die Anzahl und der Typ der Attribute für eine Relation nennt man Relationenschema. Das Bild illustriert die Relation **R** mit Attributen ***A**1* bis ***A**n* in den Spalten. 
 
-![BSP3](https://github.com/Sonnenschein01/Sonnenschein01.github.io/blob/main/drittesbsp.png "Beispiel 3")
+!['Image3'](https://raw.githubusercontent.com/Sonnenschein01/Sonnenschein01.github.io/main/drittesbsp.png "Beispiel 3")
 
 *Beispiel:*
 
@@ -171,15 +170,13 @@ Für das Umwandeln von ER-Diagrammen in eine Relation in Form einer Tabelle gibt
 
 1. Jeder Entitätstyp ist eine eigene Tabelle mit einem Primärschlüssel. Optimalerweise ist der Primärschlüssel ein einzelnes Attribut. Im Zweifel wird ein künstlicher Primärschlüssel zugewiesen, wie z.B eine ID. Jede Zeile einer Tabelle ist eine Entität des Entitätstyps.
 
-![BSP4](https://github.com/Sonnenschein01/Sonnenschein01.github.io/blob/main/viertesbsp.png "Beispiel 4")
-
-<img width="459" alt="viertesbsp" src="https://user-images.githubusercontent.com/109920734/224554874-48930954-dda7-4401-967e-632e7c5c195b.png">
+!['Image4'](https://raw.githubusercontent.com/Sonnenschein01/Sonnenschein01.github.io/main/viertesbsp.png "Beispiel 4")
 
 * Aufteilen wie in 1. beschrieben:
 
-![BSP4.2](https://github.com/Sonnenschein01/Sonnenschein01.github.io/blob/263e980bf0916ffbf8bc83c79f18d1f1b2fc296b/viertesbsp2.png)
+!['Image4.2'](https://raw.githubusercontent.com/Sonnenschein01/Sonnenschein01.github.io/main/viertesbsp2.png "Beispiel 4 Teil 2")
 
-![Pfeil](https://github.com/Sonnenschein01/Sonnenschein01.github.io/blob/263e980bf0916ffbf8bc83c79f18d1f1b2fc296b/pfeil.png)
+!['Pfeil'](https://raw.githubusercontent.com/Sonnenschein01/Sonnenschein01.github.io/main/pfeil.png "Pfeil")
 
 **Mensch**
 
@@ -190,9 +187,9 @@ Steuernummer | Vorname | Nachname | Geburtsdatum
 
 ### &
 
-![BSP4.3](https://github.com/Sonnenschein01/Sonnenschein01.github.io/blob/e8a18976fd891d3ac26116d7c6bf3ed3d250f1ad/viertesbsp3.png)
+!['Image4.3'](https://raw.githubusercontent.com/Sonnenschein01/Sonnenschein01.github.io/main/viertesbsp3.png)
 
-![Pfeil](https://github.com/Sonnenschein01/Sonnenschein01.github.io/blob/263e980bf0916ffbf8bc83c79f18d1f1b2fc296b/pfeil.png)
+!['Pfeil'](https://raw.githubusercontent.com/Sonnenschein01/Sonnenschein01.github.io/main/pfeil.png "Pfeil")
 
 **Kurs**
 
@@ -201,7 +198,7 @@ Nummer | Fach
 1      | Mathematik
 2      | Informatik
 
-* Relationen werden aufgelöst. Dazu geht man je nach Kardinalität unterschiedlich vor
+* Die Relationen werden also aufgelöst. Dazu geht man je nach Kardinalität unterschiedlich vor:
 
 2. m:n-Kardinalitäten erfordern eine zusätzliche Tabelle für die Relation. (Das erstellen der Tabelle für die Entitätstypen (Hier: Schüler und Kurs) wurden schon in Regel 1 erklärt.) In der zusätzlichen Tabelle gibt es eine Spalte für jeden Primärschlüssel der beteiligten Entitätstypen. Primärschlüssel, die in einer „fremden“ Tabelle auftauchen, nennt man dort Fremdschlüssel. 
 
