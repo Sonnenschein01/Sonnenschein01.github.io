@@ -206,9 +206,9 @@ Nummer | Fach
 
 In diesem Beispiel besucht Schüler Nr. 23 in realität zwei Kurse. 
 
-!['Image5'](https://raw.githubusercontent.com/Sonnenschein01/Sonnenschein01.github.io/main/fuenftesbsp2.png)
+!['Image5.2'](https://raw.githubusercontent.com/Sonnenschein01/Sonnenschein01.github.io/main/fuenftesbsp2.png)
 
-!['Image5'](https://raw.githubusercontent.com/Sonnenschein01/Sonnenschein01.github.io/main/pfeil.png)
+!['Pfeil'](https://raw.githubusercontent.com/Sonnenschein01/Sonnenschein01.github.io/main/pfeil.png)
 
 **Besucht**
 
@@ -217,3 +217,12 @@ Schüler-Nr. | Kurs-Nr.
 17          | 1
 23          | 1
 23          | 2
+
+3.) Jede 1:n- und 1:1-Beziehung mit eigenen Attributen wird wie bei Regel 2 durch eine eigene Tabelle dargestellt. Hätten diese beiden “Hat” Beziehungen Attribute, würde die Regel greifen, sonst nicht.
+
+!['Image6'](https://raw.githubusercontent.com/Sonnenschein01/Sonnenschein01.github.io/main/sechstesbsp.png)
+
+!['Image6.2'](https://raw.githubusercontent.com/Sonnenschein01/Sonnenschein01.github.io/main/sechstesbsp2.png)
+
+4.) Bei 1:n-Kardinalitäten wird in die Tabelle der n-Kardinalität eine zusätzliche Spalte mit dem Primärschlüssel der 1-Kardinalität aufgenommen. Dies ist nun ein Fremdschlüssel in der zweiten Tabelle. 
+
