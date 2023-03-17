@@ -263,6 +263,8 @@ OF-OH 815   | BMW
 
 !['Image8'](https://raw.githubusercontent.com/Sonnenschein01/Sonnenschein01.github.io/main/achtesbsp.png)
 
+!['Pfeil'](https://raw.githubusercontent.com/Sonnenschein01/Sonnenschein01.github.io/main/pfeil.png)
+
 **MenschKopf**
 
 **Steuernummer** | Vorname | Nachname | Geburtsdatum | DNA-Profil | Augenfarbe
