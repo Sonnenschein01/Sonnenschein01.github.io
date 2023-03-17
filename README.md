@@ -198,7 +198,7 @@ Nummer | Fach
 1      | Mathematik
 2      | Informatik
 
-* Die Relationen werden also aufgeteilt. Das macht man je nach Kardinalität unterscheidet:
+* Die Relationen werden also aufgeteilt. Das macht man je nach Kardinalität unterschiedlich:
 
 ---
 
