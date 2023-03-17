@@ -245,7 +245,7 @@ Schüler-Nr. | Kurs-Nr.
 RÜD-VK 60   | Nissan
 OF-OH 815   | BMW
 
-(Kennzeichen ist Primary Key)
+(Kennzeichen ist Primärschlüssel)
 
 # &
 
@@ -256,3 +256,19 @@ OF-OH 815   | BMW
 42-0815-23       | Winter     | RÜD-VK 60
 170-5ZDF-11      | Sommer     | OF-OH 815
 42-0185-24       | Winter     | RÜD-VK-60
+
+(Seriennummer ist Primärschlüssel & Auto-Kennzeichen ist Fremdschlüssel)
+
+5.) Bei 1:1-Kardinalitäten fasst man beide Entitätstabellen zu einer Tabelle zusammen oder der Primärschlüssel des ersten Entitätstyps wird beim zweiten Entitätstyp Primär- und Fremdschlüssel zugleich. (Möchte man das nicht, kann man wahlweise wie in Regel 2 oder 4 vorgehen.) 
+
+['Image8'](https://raw.githubusercontent.com/Sonnenschein01/Sonnenschein01.github.io/main/achtesbsp.png)
+
+
+**MenschKopf**
+
+**Steuernummer** | Vorname | Nachname | Geburtsdatum | DNA-Profil | Augenfarbe
+---              | ---     | ---      | ---          | ---        | ---
+17               | Petra   | Silie    | 28.05.2005   | GATTACA    | gruen
+42               | Angela  | Merkel   | 17.07.1954   | ACCAGAT    | blau
+
+
