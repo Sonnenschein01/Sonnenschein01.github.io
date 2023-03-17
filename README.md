@@ -275,3 +275,27 @@ OF-OH 815   | BMW
 6.) Sind Regel 4 und 5 nicht anwendbar, also in allen anderen Fällen (Auch bei Kardinalitäten mit 0...n) geht man wie in ERegel 2 vor und erstellt für die Relation eine neue Tabelle. 
 
 * Nun wissen wir wie man ER-Modelle in Relationen (Tabellen) umwandelt, die abgespeichert werden. 
+
+---
+
+# Grundlegende Abfragen
+
+Man kann die Daten in einer Datenbank auch abfragen. Im Grunde lässt sich das mit Projektionen und Selektionen der relationalen Datenbanktabelle erreichen.  
+
+Dabei ist die Definition: Durch eine Datenbankabfrage werden Datensätze ausgewählt und bestimmte Attribute angezeigt. Das heißt relationale Algebra. 
+
+Selektion wird durch das Zeichen σ (Sigma) dargestellt und wählt Zeilen aus einer Tabelle aus. 
+
+Projektion wird durch das Zeichen π (Pi) dargestellt und wählt Spalten aus einer Tabelle aus. 
+
+Will man nun mit Befehlen etwas bestimmtes aus einer Datenbanktabelle z.B beim Netflix gucken Komödien auswählen, so benutzt man bestimmte Befehle der relationalen Algebra die darauf basieren. Hierbei gibt es die grundlegenden CRUD-Befehle: 
+
+**C**reate: INSERT INTO tablename (column1, column2, …) VALUES (value1, value2, …); 
+
+**R**ead: SELECT attr1, attribute2, … FROM tablename WHERE attr1 = ‘Wert’; 
+
+**U**pdate: UPDATE tablename SET attribute1 = ‘Wert’ WHERE attribute2 = ‘Wert’; 
+
+**D**elete: DELETE FROM tablename WHERE attribute1 = ‘Wert’; 
+ 
+Dieses Befehlsbeispiel zur Manipulation von Datenbankeninhalten nennt sich SQL (Structured Query Language) und ist wie zu sehen eine Art eigene Sprache um die Datenbanken zu verwalten und abzufragen.  
