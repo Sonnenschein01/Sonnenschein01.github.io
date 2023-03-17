@@ -166,7 +166,7 @@ Für das Umwandeln von ER-Diagrammen in eine Relation in Form einer Tabelle gibt
 
 ---
 
-* Auf den ersten Blick ist das viel, aber nun gehen wir anhand dieses Beispiels zusammen durch:
+* Auf den ersten Blick ist das viel, aber nun gehen wir das anhand dieses Beispiels zusammen durch:
 
 1. Jeder Entitätstyp ist eine eigene Tabelle mit einem Primärschlüssel. Optimalerweise ist der Primärschlüssel ein einzelnes Attribut. Im Zweifel wird ein künstlicher Primärschlüssel zugewiesen, wie z.B eine ID. Jede Zeile einer Tabelle ist eine Entität des Entitätstyps.
 
@@ -200,6 +200,8 @@ Nummer | Fach
 
 * Die Relationen werden also aufgeteilt. Das macht man je nach Kardinalität unterschiedlich:
 
+---
+
 2. m:n-Kardinalitäten erfordern eine zusätzliche Tabelle für die Relation. (Das erstellen der Tabelle für die Entitätstypen (Hier: Schüler und Kurs) wurden schon in Regel 1 erklärt.) In der zusätzlichen Tabelle gibt es eine Spalte für jeden Primärschlüssel der beteiligten Entitätstypen. Primärschlüssel, die in einer „fremden“ Tabelle auftauchen, nennt man dort Fremdschlüssel. 
 
 !['Image5'](https://raw.githubusercontent.com/Sonnenschein01/Sonnenschein01.github.io/main/fuenftesbsp.png)
@@ -218,11 +220,39 @@ Schüler-Nr. | Kurs-Nr.
 23          | 1
 23          | 2
 
+---
+
 3.) Jede 1:n- und 1:1-Beziehung mit eigenen Attributen wird wie bei Regel 2 durch eine eigene Tabelle dargestellt. Hätten diese beiden “Hat” Beziehungen Attribute, würde die Regel greifen, sonst nicht.
 
 !['Image6'](https://raw.githubusercontent.com/Sonnenschein01/Sonnenschein01.github.io/main/sechstesbsp.png)
 
 !['Image6.2'](https://raw.githubusercontent.com/Sonnenschein01/Sonnenschein01.github.io/main/sechstesbsp2.png)
 
+---
+
 4.) Bei 1:n-Kardinalitäten wird in die Tabelle der n-Kardinalität eine zusätzliche Spalte mit dem Primärschlüssel der 1-Kardinalität aufgenommen. Dies ist nun ein Fremdschlüssel in der zweiten Tabelle. 
 
+!['Image7'](https://raw.githubusercontent.com/Sonnenschein01/Sonnenschein01.github.io/main/siebtesbsp.png)
+
+['Pfeil'](https://raw.githubusercontent.com/Sonnenschein01/Sonnenschein01.github.io/main/pfeil.png)
+
+['Pfeil'](https://raw.githubusercontent.com/Sonnenschein01/Sonnenschein01.github.io/main/pfeil.png)
+
+**Auto**
+
+**Kennzeichen** | Hersteller
+---         | ---
+RÜD-VK 60   | Nissan
+OF-OH 815   | BMW
+
+(Kennzeichen ist Primary Key)
+
+# &
+
+**Rad**
+
+**Seriennummer** | Jahreszeit | Auto-Kennzeichen
+---              | ---        | ---
+42-0815-23       | Winter     | RÜD-VK 60
+170-5ZDF-11      | Sommer     | OF-OH 815
+42-0185-24       | Winter     | RÜD-VK-60
