@@ -259,10 +259,11 @@ OF-OH 815   | BMW
 
 (Seriennummer ist Primärschlüssel & Auto-Kennzeichen ist Fremdschlüssel)
 
+---
+
 5.) Bei 1:1-Kardinalitäten fasst man beide Entitätstabellen zu einer Tabelle zusammen oder der Primärschlüssel des ersten Entitätstyps wird beim zweiten Entitätstyp Primär- und Fremdschlüssel zugleich. (Möchte man das nicht, kann man wahlweise wie in Regel 2 oder 4 vorgehen.) 
 
 ['Image8'](https://raw.githubusercontent.com/Sonnenschein01/Sonnenschein01.github.io/main/achtesbsp.png)
-
 
 **MenschKopf**
 
@@ -271,4 +272,6 @@ OF-OH 815   | BMW
 17               | Petra   | Silie    | 28.05.2005   | GATTACA    | gruen
 42               | Angela  | Merkel   | 17.07.1954   | ACCAGAT    | blau
 
+6.) Sind Regel 4 und 5 nicht anwendbar, also in allen anderen Fällen (Auch bei Kardinalitäten mit 0...n) geht man wie in ERegel 2 vor und erstellt für die Relation eine neue Tabelle. 
 
+* Nun wissen wir wie man ER-Modelle in Relationen (Tabellen) umwandelt, die abgespeichert werden. 
