@@ -234,9 +234,7 @@ Schüler-Nr. | Kurs-Nr.
 
 !['Image7'](https://raw.githubusercontent.com/Sonnenschein01/Sonnenschein01.github.io/main/siebtesbsp.png)
 
-['Pfeil'](https://raw.githubusercontent.com/Sonnenschein01/Sonnenschein01.github.io/main/pfeil.png)
-
-['Pfeil'](https://raw.githubusercontent.com/Sonnenschein01/Sonnenschein01.github.io/main/pfeil.png)
+!['Pfeil'](https://raw.githubusercontent.com/Sonnenschein01/Sonnenschein01.github.io/main/pfeil.png)
 
 **Auto**
 
@@ -263,7 +261,7 @@ OF-OH 815   | BMW
 
 5.) Bei 1:1-Kardinalitäten fasst man beide Entitätstabellen zu einer Tabelle zusammen oder der Primärschlüssel des ersten Entitätstyps wird beim zweiten Entitätstyp Primär- und Fremdschlüssel zugleich. (Möchte man das nicht, kann man wahlweise wie in Regel 2 oder 4 vorgehen.) 
 
-['Image8'](https://raw.githubusercontent.com/Sonnenschein01/Sonnenschein01.github.io/main/achtesbsp.png)
+!['Image8'](https://raw.githubusercontent.com/Sonnenschein01/Sonnenschein01.github.io/main/achtesbsp.png)
 
 **MenschKopf**
 
