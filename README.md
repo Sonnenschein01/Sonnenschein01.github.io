@@ -201,4 +201,19 @@ Nummer | Fach
 * Die Relationen werden also aufgeteilt. Das macht man je nach Kardinalität unterschiedlich:
 
 2. m:n-Kardinalitäten erfordern eine zusätzliche Tabelle für die Relation. (Das erstellen der Tabelle für die Entitätstypen (Hier: Schüler und Kurs) wurden schon in Regel 1 erklärt.) In der zusätzlichen Tabelle gibt es eine Spalte für jeden Primärschlüssel der beteiligten Entitätstypen. Primärschlüssel, die in einer „fremden“ Tabelle auftauchen, nennt man dort Fremdschlüssel. 
- test
+
+!['Image5'](https://raw.githubusercontent.com/Sonnenschein01/Sonnenschein01.github.io/main/fuenftesbsp.png)
+
+In diesem Beispiel besucht Schüler Nr. 23 in realität zwei Kurse. 
+
+!['Image5'](https://raw.githubusercontent.com/Sonnenschein01/Sonnenschein01.github.io/main/fuenftesbsp2.png)
+
+!['Image5'](https://raw.githubusercontent.com/Sonnenschein01/Sonnenschein01.github.io/main/pfeil.png)
+
+**Besucht**
+
+Schüler-Nr. | Kurs-Nr. 
+---         | ---
+17          | 1
+23          | 1
+23          | 2
